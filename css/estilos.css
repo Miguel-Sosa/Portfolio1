@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #DCD7C9;
+    font-family: 'Courier New', Courier, monospace;
+    color: #2C3639;
+    font-size: large;
+}
+
+h1{
+    font-size: 32px;
+    text-align: center;
+    background-color: #A27B5C;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+}
+
+h3{
+    text-align: center;
+    padding: 20px;
+}
+
+p{
+    text-align:justify;
+    margin: 10px;
+}
+
+fieldset{
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+legend{
+    font-weight: bold;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    margin: 5px;
+}
+
+#send{
+    margin: 10px;
+}
+
